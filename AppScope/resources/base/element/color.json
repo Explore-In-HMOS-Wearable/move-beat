@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "color_primary",
+      "value": "#3A8DFF"
+    },
+    {
+      "name": "color_primary_light",
+      "value": "#74B9FF"
+    },
+    {
+      "name": "color_primary_dark",
+      "value": "#1E5ACC"
+    },
+    {
+      "name": "color_accent",
+      "value": "#8CC4FF"
+    },
+    {
+      "name": "color_background",
+      "value": "#0B0F1C"
+    },
+    {
+      "name": "color_surface",
+      "value": "#11172A"
+    },
+    {
+      "name": "color_text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_text_secondary",
+      "value": "#B0C8FF"
+    }
+  ]
+}
